@@ -36,15 +36,6 @@ const sagar = {
 };
 ```
 
----
-
-### What I'm building right now
-
-- **Symbiofy.ai** — Event-driven workflow triggers across Microsoft Graph + GitHub webhooks, with reliable subscription lifecycle management.
-- **AI chat infra** — Led the migration from Vercel AI SDK v4 → v5 with a custom message-format bridge so years of stored chat history kept rendering.
-- **Public REST API** — Rate-limited, multi-format file attachments, hardened input validation.
-- **Microsoft 365 integration** — Per-user OneDrive + SharePoint access inside shared AI templates.
-- **[Cogni Wave](https://cogni-wave-prod.vercel.app)** — A side-project multi-provider LLM chat with web search and agents.
 
 ---
 
